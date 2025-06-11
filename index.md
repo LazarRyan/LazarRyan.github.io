@@ -9,22 +9,22 @@ Hi, I’m **Ryan Lazar** — a Business Solution Analyst at Deloitte and an M.S.
 ### 🧾 Investment Tracker  
 A Python tool to track portfolio performance, allocations, and gains/losses over time. Built for DIY investors looking for insight without the noise.  
 - 🔗 [GitHub Repo](https://github.com/LazarRyan/investment-tracker)
-- 🚀 [Live Demo](#) <!-- https://investment-tracker-tau.vercel.app/ -->
+- 🚀 [Live Demo](https://investment-tracker-tau.vercel.app/)
 
 ### 📈 Economic Data Dashboard  
 A real-time economic dashboard that pulls CPI, unemployment, GDP, and other indicators from public APIs and structures them for analysis.  
 - 🔗 [GitHub Repo](https://github.com/LazarRyan/EconomicData)  
-- 🚀 [Live Demo](#) <!-- https://econdata.streamlit.app/ -->
+- 🚀 [Live Demo](https://econdata.streamlit.app/)
 
 - ### 💵 Flight Price Tracker  
 Scrapes flight prices from commercial airline sites, logs to a cloud DB, and sends alerts. Great for automation, scraping, and ETL practice.  
 - 🔗 [GitHub Repo](https://github.com/LazarRyan/price-tracker-project)
-- 🚀 [Live Demo](#) <!-- https://flight-price-tracker.streamlit.app/ -->
+- 🚀 [Live Demo](https://flight-price-tracker.streamlit.app/)
 
 ### ✈️ AI Travel Advisor  
 A GPT-powered travel planner that takes user input and returns customized itineraries, city suggestions, and local highlights.  
 - 🔗 [GitHub Repo](https://github.com/LazarRyan/ai-travel-advisor)  
-- 🚀 [Try It Live](#) <!-- https://ai-travel-advisor.streamlit.app/ -->
+- 🚀 [Try It Live](https://ai-travel-advisor.streamlit.app/)
 
 ### 📸 Instagram Poster  
 Uses the Meta Graph API to schedule and post Instagram content programmatically, including image uploads and token refreshes.  

@@ -38,7 +38,7 @@ Automates Instagram post scheduling and publishing using the Meta Graph API and 
 
 ## 🔗 Connect
 
-- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/ryan-lazar123/))  
+- [LinkedIn]([(https://www.linkedin.com/in/ryan-lazar123/)
 - [Resume](resume.pdf)
 
 Thanks for visiting my portfolio!

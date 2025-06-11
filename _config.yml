@@ -1,8 +1,16 @@
+title: "Ryan Lazar"
+description: "Business Analyst & Data Engineer Portfolio"
+baseurl: ""
+url: "https://LazarRyan.github.io"
+
 theme: minimal-mistakes-jekyll
 
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
 plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-title: Ryan Lazar's Portfolio
-description: A showcase of my projects in data, analytics, and engineering.
+author:
+  name: "Ryan Lazar"

@@ -1,8 +1,8 @@
 # Basic site info
 title: "Ryan Lazar"
 description: "Business Analyst & Aspiring Data Engineer"
-url: "https://LazarRyan.github.io" # ← change this
-baseurl: "" # keep this empty for GitHub user pages
+url: "https://LazarRyan.github.io"
+baseurl: ""
 
 # Theme setup
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -13,10 +13,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Author info (optional avatar)
+# Author info
 author:
   name: "Ryan Lazar"
-  avatar: "Profile Picture.jpg" # optional image
+  avatar: "avatar.jpg"
   bio: "Python | SQL | Business Analytics | M.S. in Data Science"
 
 # Top navigation bar

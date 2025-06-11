@@ -41,7 +41,7 @@ An end-to-end ETL system using Apache Airflow, PostgreSQL, and Python. Built to 
 
 - 🎓 M.S. in Data Science (Expected May 2026)  
 - 🏢 Business Solution Analyst @ Deloitte  
-- 🛠️ Python | SQL | Airflow | APIs | Automation  
+- 🛠️ Python - SQL - Airflow - APIs - Automation  
 - 📊 Focused on data engineering, analytics, and cloud pipelines  
 - 🌎 Based in NJ, USA
 

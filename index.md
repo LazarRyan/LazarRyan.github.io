@@ -17,7 +17,7 @@ A real-time economic dashboard that pulls CPI, unemployment, GDP, and other indi
 - 🚀 [Live Demo](https://econdata.streamlit.app/)
 
 ### 💵 Flight Price Tracker  
-Scrapes flight prices from commercial airline sites, logs to a cloud DB, and sends alerts. Great for automation, scraping, and ETL practice.  
+Scrapes flight prices from commercial airline sites, logs to a cloud DB, and gives recomendations. Great for automation, scraping, and ETL practice.  
 - 🔗 [GitHub Repo](https://github.com/LazarRyan/price-tracker-project)
 - 🚀 [Live Demo](https://flight-price-tracker.streamlit.app/)
 

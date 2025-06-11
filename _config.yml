@@ -5,7 +5,7 @@ url: "https://LazarRyan.github.io" # Use your GitHub Pages URL
 baseurl: "" # Keep this empty for user/organization sites
 
 # Theme
-theme: minima
+theme: cayman
 
 # Plugins
 plugins:

@@ -1,44 +1,55 @@
 ![Avatar](avatar.jpg){:style="border-radius: 50%; width: 150px;"}
 
-Hi, I’m Ryan Lazar — a Business Solution Analyst at Deloitte and a Data Science M.S. student finishing my degree by May 2026. I build data-driven tools and pipelines that transform raw data into clean, actionable insights. Below are some of my favorite personal projects — built with Python, APIs, automation, and analytics in mind.
+Hi, I’m **Ryan Lazar** — a Business Solution Analyst at Deloitte and an M.S. Data Science candidate for Drew University, graduating May 2026. I build data-driven tools that transform raw information into scalable, insightful solutions. Below are a few personal projects I've developed using Python, APIs, automation, and cloud-friendly pipelines.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧾 [Investment Tracker](https://github.com/LazarRyan/investment-tracker)
-A Python-based tool that tracks and visualizes investment performance over time, including portfolio allocation and gain/loss tracking. Ideal for retail investors and DIY portfolio analysis.
+### 🧾 Investment Tracker  
+A Python tool to track portfolio performance, allocations, and gains/losses over time. Built for DIY investors looking for insight without the noise.  
+- 🔗 [GitHub Repo](https://github.com/LazarRyan/investment-tracker)
+- - 🚀 [Live Demo](#) <!-- https://investment-tracker-tau.vercel.app/ -->
 
-### 📈 [Economic Data Dashboard](https://github.com/LazarRyan/EconomicData)
-A script and visualization suite that pulls real-time economic data (CPI, unemployment, GDP, etc.) from public APIs and structures it for dashboard reporting and trend analysis.
+### 📈 Economic Data Dashboard  
+A real-time economic dashboard that pulls CPI, unemployment, GDP, and other indicators from public APIs and structures them for analysis.  
+- 🔗 [GitHub Repo](https://github.com/LazarRyan/EconomicData)  
+- 🚀 [Live Demo](#) <!-- https://econdata.streamlit.app/ -->
 
-### ⚙️ [Airflow ETL Project](https://github.com/LazarRyan/airflow-etl-project)
-An end-to-end data pipeline built using Apache Airflow, PostgreSQL, and Python. It demonstrates orchestration, data transformation, and modular task design in a production-style DAG.
+- ### 💵 Flight Price Tracker  
+Scrapes flight prices from commercial airline sites, logs to a cloud DB, and sends alerts. Great for automation, scraping, and ETL practice.  
+- 🔗 [GitHub Repo](https://github.com/LazarRyan/price-tracker-project)
+- - 🚀 [Live Demo](#) <!-- https://flight-price-tracker.streamlit.app/ -->
 
-### 💵 [Price Tracker](https://github.com/LazarRyan/price-tracker-project)
-A Python-based price tracking tool that scrapes commercial flight sites, and logs changes in a cloud database. Great for automation and scraping practice.
+### ✈️ AI Travel Advisor  
+A GPT-powered travel planner that takes user input and returns customized itineraries, city suggestions, and local highlights.  
+- 🔗 [GitHub Repo](https://github.com/LazarRyan/ai-travel-advisor)  
+- 🚀 [Try It Live](#) <!-- https://ai-travel-advisor.streamlit.app/ -->
 
-### ✈️ [AI Travel Advisor](https://github.com/LazarRyan/ai-travel-advisor)
-An intelligent travel recommendation app powered by OpenAI APIs. Users input preferences, and the system generates travel itineraries, city suggestions, and local activity plans.
+### 📸 Instagram Poster  
+Uses the Meta Graph API to schedule and post Instagram content programmatically, including image uploads and token refreshes.  
+- 🔗 [GitHub Repo](https://github.com/LazarRyan/instagram-poster)
 
-### 📸 [Instagram Poster](https://github.com/LazarRyan/instagram-poster)
-Automates Instagram post scheduling and publishing using the Meta Graph API and Python. Includes image upload, captioning, and token refresh flows.
+### ⚙️ Airflow ETL Pipeline  
+An end-to-end ETL system using Apache Airflow, PostgreSQL, and Python. Built to demonstrate orchestration, transformation, and modular task design.  
+- 🔗 [GitHub Repo](https://github.com/LazarRyan/airflow-etl-project)
+
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 M.S. in Data Science (Expected May 2026)
-- 🏢 Business Solution Analyst @ Deloitte
-- 🛠️ Python | SQL | Airflow | APIs | Automation
-- 📊 Interested in data engineering, analytics, and cloud pipelines
+- 🎓 M.S. in Data Science (Expected May 2026)  
+- 🏢 Business Solution Analyst @ Deloitte  
+- 🛠️ Python | SQL | Airflow | APIs | Automation  
+- 📊 Focused on data engineering, analytics, and cloud pipelines  
 - 🌎 Based in NJ, USA
 
 ---
 
 ## 🔗 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ryan-lazar123/)
-- [Resume](resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/ryan-lazar123/)  
+- [Resume (PDF)](resume.pdf)
 
 Thanks for visiting my portfolio!

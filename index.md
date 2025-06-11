@@ -1,5 +1,3 @@
-# 👋 Welcome!
-
 ![Avatar](avatar.jpg){:style="border-radius: 50%; width: 150px;"}
 
 Hi, I’m Ryan Lazar — a Business Solution Analyst at Deloitte and a Data Science M.S. student finishing my degree by May 2026. I build data-driven tools and pipelines that transform raw data into clean, actionable insights. Below are some of my favorite personal projects — built with Python, APIs, automation, and analytics in mind.

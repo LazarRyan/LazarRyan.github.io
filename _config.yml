@@ -1,16 +1,29 @@
+# Basic site info
 title: "Ryan Lazar"
-description: "Business Analyst & Data Engineer Portfolio"
-baseurl: ""
-url: "https://LazarRyan.github.io"
+description: "Business Analyst & Aspiring Data Engineer"
+url: "https://LazarRyan.github.io" # ← change this
+baseurl: "" # keep this empty for GitHub user pages
 
-theme: minimal-mistakes-jekyll
+# Theme setup
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-
+# Required plugins for GitHub Pages + Minimal Mistakes
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
+# Author info (optional avatar)
 author:
   name: "Ryan Lazar"
+  avatar: "Profile Picture.jpg" # optional image
+  bio: "Python | SQL | Business Analytics | M.S. in Data Science"
+
+# Top navigation bar
+nav:
+  - title: About
+    url: /about/
+  - title: Projects
+    url: /projects/
+  - title: Resume
+    url: /resume/
